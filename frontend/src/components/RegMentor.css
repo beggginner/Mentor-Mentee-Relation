@@ -1,0 +1,33 @@
+.registration-form1{
+
+    margin-left: 30%;
+}
+
+.input{
+    background-color: white;
+    border:none;
+    width: 400px;
+   margin-top:0px;
+   margin-bottom: 3px;
+   padding:8px;
+}
+
+
+.select11{
+    background-color: white;
+    border:none;
+    width: 400px;
+   margin-top:5px;
+   margin-bottom: 3px;
+   padding:8px;
+}
+@media screen and (max-width: 480px) {
+    .registration-form1{
+
+        margin-left: auto;
+        margin-left:auto;
+    }
+    .input, .select1{
+        width: 75%;
+    }
+}
